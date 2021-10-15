@@ -18,4 +18,5 @@ BCI Competition iv 2(a)
 * [Detail information of dataset](http://www.bbci.de/competition/iv/desc_2a.pdf)
 
 ## Evaluation
-We use average **acc.** to evaluate the performance.
+We are going to solve the subject independent task. So, the average acc. of all subjects is used as the performance indicator in the leave-one subject out(LOSO) environment. Participants use the target subject as the validation data and the source subject as the train data.
+**CAUTION WE SHUFFLED THE ORIGIN TRAIN AND EVALUATION DATA**
