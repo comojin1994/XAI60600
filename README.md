@@ -20,3 +20,10 @@ BCI Competition iv 2(a)
 ## Evaluation
 We are going to solve the subject independent task. So, the average acc. of all subjects is used as the performance indicator in the leave-one subject out(LOSO) environment. Participants use the target subject as the validation data and the source subject as the train data.
 **CAUTION WE SHUFFLED THE ORIGIN TRAIN AND EVALUATION DATA**
+
+## Baseline
+* Common Spatial Pattern & LinearDiscriminantAnalysis
+
+|Sub. No.|1|2|3|4|5|6|7|8|9|avg.|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Acc.|0.455|0.267|0.319|0.326|0.205|0.340|0.281|0.524|0.389|0.345|
