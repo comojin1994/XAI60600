@@ -10,10 +10,11 @@ Brain-computer interface (BCI) is a communication system between humans and comp
 BCI Competition iv 2(a)
 
 ## Dataset breif info
+* Number of subjects: 9 subjects
 * Number of channels: 22 EEG channels(mortor cortex) + 3 EOG channels
 * Sampling rate: 250 Hz
 * Bandpass filter: between 0.5 Hz and 100 Hz
-* Class: left hand(72), right hand(72), both feet(72), and tongue(72) -> total 288
+* Class: left hand(72), right hand(72), both feet(72), and tongue(72) `total: 288 trials/sub.`
 
 ## Evaluation
 We use average **acc.** to evaluate the performance.
