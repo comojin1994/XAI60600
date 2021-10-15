@@ -8,6 +8,7 @@ Brain-computer interface (BCI) is a communication system between humans and comp
 
 ## Dataset
 BCI Competition iv 2(a)
+Download at **RELEASE**
 
 ## Dataset breif info
 * Number of subjects: 9 subjects
