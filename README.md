@@ -4,14 +4,14 @@ This is the project of APPLICATIONS AND PRACTICE IN NEURAL NETWORKS at the KOREA
 ## 1. Project objective
 The objective of the project is to verify signal processing and classification methods for motor imagery-based brain-computer interfaces. 
 
-## 2. Breif description
+## 2. Brief description
 Brain-computer interface (BCI) is a communication system between humans and computers. In particular, the noninvasive BCI system using the electroencephalogram (EEG) signals is one of the most notable technologies since it reflects the users’ intentions and status. Motor imagery, one of the endogenous BCI paradigms, is the paradigm in which users imagine their motions. This method can help communication of disabled by their imagination.
 
 ## 3. Dataset
 BCI Competition iv 2(a)\
 Download at **RELEASE**
 
-## 4. Dataset breif info
+## 4. Dataset brief info
 * Number of subjects: 9 subjects
 * Number of channels: 22 EEG channels(mortor cortex) + 3 EOG channels
 * Sampling rate: 250 Hz
