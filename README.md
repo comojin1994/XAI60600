@@ -27,3 +27,29 @@ We are going to solve the subject independent task. So, the average acc. of all 
 |Sub. No.|1|2|3|4|5|6|7|8|9|avg.|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Acc.|0.455|0.267|0.319|0.326|0.205|0.340|0.281|0.524|0.389|0.345|
+
+## Project architecture
+```
+.
+├── README.md
+├── data
+│   └── BCI_Competition_IV
+│       └── BCI_Competition_IV_2a
+│           └── A01E.gdf
+│           └── A01T.gdf
+│                 ...
+│           └── A09E.gdf
+│           └── A09T.gdf
+├── .gitignore
+├── baseline.ipynb
+├── dataloader.py
+└── sample_submission.csv
+```
+
+## Envs
+docker: 20.10.8
+
+The easyest setting method\
+`docker push comojin1994/cu10.2-ubuntu-18.04-pytorch-1.9.0:tagname`
+
+If you use cuda 11.x version, contact me.
