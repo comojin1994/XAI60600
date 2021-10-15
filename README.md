@@ -1,4 +1,5 @@
 # XAI60600
+This is the project of APPLICATIONS AND PRACTICE IN NEURAL NETWORKS at the KOREA UNIV.
 
 ## 1. Project objective
 The objective of the project is to verify signal processing and classification methods for motor imagery-based brain-computer interfaces. 
