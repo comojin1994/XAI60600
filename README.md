@@ -15,6 +15,7 @@ BCI Competition iv 2(a)
 * Sampling rate: 250 Hz
 * Bandpass filter: between 0.5 Hz and 100 Hz
 * Class: left hand(72), right hand(72), both feet(72), and tongue(72) `total: 288 trials/sub.`
+* [Detail information of dataset](http://www.bbci.de/competition/iv/desc_2a.pdf)
 
 ## Evaluation
 We use average **acc.** to evaluate the performance.
